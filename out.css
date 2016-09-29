@@ -1,0 +1,1167 @@
+/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+
+/**
+ * Remove default margin.
+ */
+
+body {
+  margin: 0;
+}
+
+/* HTML5 display definitions
+   ========================================================================== */
+
+/**
+ * Correct `block` display not defined for any HTML5 element in IE 8/9.
+ * Correct `block` display not defined for `details` or `summary` in IE 10/11
+ * and Firefox.
+ * Correct `block` display not defined for `main` in IE 11.
+ */
+
+article {
+  display: block;
+}
+
+/**
+ * 1. Correct `inline-block` display not defined in IE 8/9.
+ * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
+ */
+
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+
+/**
+ * Address `[hidden]` styling not present in IE 8/9/10.
+ * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
+ */
+
+[hidden] {
+  display: none;
+}
+
+/* Links
+   ========================================================================== */
+
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+
+a {
+  background-color: transparent;
+}
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+
+a:active,a:hover {
+  outline: 0;
+}
+
+/* Text-level semantics
+   ========================================================================== */
+
+/**
+ * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
+ */
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
+ */
+
+b {
+  font-weight: bold;
+}
+
+/**
+ * Address styling not present in Safari and Chrome.
+ */
+
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari, and Chrome.
+ */
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+
+small {
+  font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+/* Embedded content
+   ========================================================================== */
+
+/**
+ * Remove border when inside `a` element in IE 8/9/10.
+ */
+
+/**
+ * Correct overflow not hidden in IE 9/10/11.
+ */
+
+/* Grouping content
+   ========================================================================== */
+
+/**
+ * Address margin not present in IE 8/9 and Safari.
+ */
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+/**
+ * Contain overflow in all browsers.
+ */
+
+pre {
+  overflow: auto;
+}
+
+/**
+ * Address odd `em`-unit font size rendering in all browsers.
+ */
+
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+/* Forms
+   ========================================================================== */
+
+/**
+ * Known limitation: by default, Chrome and Safari on OS X allow very limited
+ * styling of `select`, unless a `border` property is set.
+ */
+
+/**
+ * 1. Correct color not being inherited.
+ *    Known issue: affects color of disabled elements.
+ * 2. Correct font properties not being inherited.
+ * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
+ */
+
+/**
+ * Address `overflow` set to `hidden` in IE 8/9/10/11.
+ */
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
+ * Correct `select` style inheritance in Firefox.
+ */
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+
+/**
+ * It's recommended that you don't attempt to style these elements.
+ * Firefox's implementation doesn't respect box-sizing, padding, or width.
+ *
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+
+/**
+ * Fix the cursor style for Chrome's increment/decrement buttons. For certain
+ * `font-size` values of the `input`, it causes the cursor style of the
+ * decrement button to change from `default` to `text`.
+ */
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
+ *    (include `-moz` to future-proof).
+ */
+
+/**
+ * Remove inner padding and search cancel button in Safari and Chrome on OS X.
+ * Safari (but not Chrome) clips the cancel button when the search input has
+ * padding (and `textfield` appearance).
+ */
+
+/**
+ * Define consistent border, margin, and padding.
+ */
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9/10/11.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+
+/**
+ * Remove default vertical scrollbar in IE 8/9/10/11.
+ */
+
+/**
+ * Don't inherit the `font-weight` (applied by a rule above).
+ * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
+ */
+
+/* Tables
+   ========================================================================== */
+
+/**
+ * Remove most spacing between table cells.
+ */
+
+/**
+ * iA Writer core.css:
+ * Base styles for all templates
+ *
+ * - Generic
+ * - Base
+ * - Objects
+ *
+ * Notes:
+ * - CSS load order: normalize.css, core.css (base styles), style.css (theme styles)
+ * - Margins are in %s (of viewport or container width) via calc() to scale fluidly
+ * - Margin/padding scaling is declared in calc() for container width: 1080px, then stopped via @media
+ * - font-size is set on body using px for breakpoints, then rems or ems per element to scale
+ */
+
+/* TOOLS */
+
+/* box-sizing */
+
+* {
+  box-sizing: border-box;
+}
+
+/* GENERIC */
+
+/* Fonts: NittiPro used for code across templates */
+
+/* Regular versions on OS X, slim versions on iOS (assumes iOS will never have regular versions) */
+
+@font-face {
+  font-family: "NittiPro";
+  font-weight: 300;
+  font-style: normal;
+  src: local("NittiPro-SemiLight"), local("NittiPro-SemiLightSlim");
+}
+
+@font-face {
+  font-family: "NittiPro";
+  font-weight: 300;
+  font-style: italic;
+  src: local("NittiPro-SemiLightItalic"), local("NittiPro-SemiLightItalicSlim");
+}
+
+@font-face {
+  font-family: "NittiPro";
+  font-weight: 500;
+  font-style: normal;
+  src: local("NittiPro-Medium"), local("NittiPro-MediumSlim");
+}
+
+@font-face {
+  font-family: "NittiPro";
+  font-weight: 500;
+  font-style: italic;
+  src: local("NittiPro-MediumItalic"), local("NittiPro-MediumItalicSlim");
+}
+
+/* BASE */
+
+html,a {
+  color: #1a1a1a;
+}
+
+html {
+  background-color: #f9f9f9;
+  /* iOS background color */
+}
+
+body {
+  box-sizing: content-box;
+  /* So measure calculations donâ€™t need to include gutters */
+  margin: 20px auto;
+  /* 20px for iPhone */
+  padding: 0 12px;
+  /* 12px gutters to match iPhone 5 Title bar UI */
+  word-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  /* NOTE May cause performance issues */
+  /* font-kerning is enabled by default in OS X Safari 7+ */
+  -webkit-font-kerning: normal;
+  font-kerning: normal;
+}
+
+/* iOS gutters responsive adjustments */
+
+/* iPhone 6 */
+
+@media screen and (min-width: 375px) {
+  body {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+/* iPhone 6+ */
+
+@media screen and (min-width: 414px) {
+  body {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  body {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
+/* iPad triggered on 760 not 768 to work with fonts */
+
+@media screen and (min-width: 760px) and (max-device-width: 1024px) {
+  body {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
+
+/* Responsive adjustments for OS X */
+
+@media screen and (min-device-width: 1152px) {
+  html {
+    background-color: #fcfcfc;
+  }
+
+  body {
+    margin-top: 60px;
+    /* 60pt */
+    margin-bottom: 60px;
+    /* 60pt */
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media screen and (min-width: 480px) and (min-device-width: 1152px) {
+  body {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
+@media screen and (min-width: 640px) and (min-device-width: 1152px) {
+  body {
+    padding-left: 72px;
+    padding-right: 72px;
+  }
+}
+
+/* Headings */
+
+/* Unify space above initial heading in blockquotes (based on 31px line-height) */
+
+/* Display h6 as run-in by default when followed by p
+   (h6 is no longer run-in if content is greater than one line long. Display can break if consecutive h6s are used before a <1 line p)
+   Note: Specced ways to do this display:run-in and :has() are not implemented at time of writing */
+
+/* Clear all siblings after floated h6â€¦ */
+
+/* â€¦except immediately following paragraph */
+
+/* Responsive list padding */
+
+ol {
+  padding-left: 1.5rem;
+  /* 15px for font-size: 15px. rem works better for RWD than % */
+}
+
+@media screen and (min-width: 760px) {
+  /* Left padding based on 40px browser default */
+
+  ol {
+    padding-left: 2.2222rem;
+    /* ~40px for font-size: 18px. rem works better for RWD than % */
+  }
+}
+
+/* HACK: Prevent empty list items collapsing
+   Note this doesnâ€™t work for paragraph lists, although we can fix via class or once has() is supported with: `ul li:not:has(p)::after` */
+
+/* Remove vertical margins on nested lists */
+
+:-webkit-any(li, dt, dd, th, td) > :-webkit-any(ul, ol, dl) {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* img is wrapped in p on export by default, so leave as inline */
+
+hr {
+  clear: both;
+  margin: 3rem auto 3rem;
+  /* Extra-large for visibility in mini-map (<100px wide) */
+  border: 0;
+  border-bottom: 1px #e6e6e6 solid;
+}
+
+/* More reasonable default to override per templateÂ */
+
+@media screen and (min-width: 100px) {
+  hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+
+/* Horizontal rule responsive adjustments */
+
+@media screen and (min-width: 1080px) {
+  hr {
+    margin-top: 46px;
+    margin-bottom: 46px;
+  }
+}
+
+/* table-layout: fixed; produces equal-width columns, which is generally a better result */
+
+/* Table cell responsive adjustments */
+
+/* Code */
+
+pre {
+  border-radius: 2px;
+  white-space: pre-wrap;
+  background-color: #e6e6e6;
+}
+
+pre {
+  padding: 1rem;
+  overflow: hidden;
+}
+
+/* Semi-light weight for Retina (@2x) */
+
+/* Use 500 not 700 for code that inherits bold. This is supplimented for titles etc per template  */
+
+:-webkit-any(strong, bold, th) :-webkit-any(code, samp, kbd) {
+  font-weight: 500;
+}
+
+/* Prevent code line-height increasing heading line-height */
+
+:-webkit-any(h1, h2, h3, h4, h5, h6) > code {
+  line-height: normal;
+}
+
+/* Print styles */
+
+@media print {
+  *,  *:before,  *:after {
+    color: #000 !important;
+    /* black prints faster */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  html {
+    margin: 0;
+    /* Override for safety */
+    padding: 0;
+    /* Override for safety */
+    font-size: 9pt;
+    /* â† needs to be set per template to counter responsive typography */
+    background: transparent !important;
+    /* Only on html due to checkboxes */
+  }
+
+  body {
+    margin: 0 auto;
+    /* Set all values for safety */
+    padding: 12pt 50pt;
+    /* Set all values for safety */
+  }
+
+  /* Make sure thereâ€™s no margin-top on first element */
+
+  body > :first-child {
+    margin-top: 0;
+  }
+
+  /* h6 excluded as the page-break-inside rule conflicts with page-initial inline h6 when printed */
+
+  p {
+    /* Not supported by Webkit at time of writing, ref: https://bugs.webkit.org/show_bug.cgi?id=39735 */
+    widows: 3;
+    orphans: 3;
+  }
+
+  hr {
+    border-bottom-color: #000 !important;
+  }
+
+  /* Underline on superscript footnote number, which when clicked shows an error */
+
+  .footnote {
+    text-decoration: none;
+  }
+
+  /* Underline for table of contents on printed pages */
+
+  /* Link which allows you to go back to the text from footnoteâ€”useless on a printed page */
+
+  .reversefootnote {
+    display: none;
+  }
+
+  /* Code has a lighter background on printed pages */
+
+  pre {
+    background-color: #f7f7f7;
+  }
+}
+
+/* OBJECTS */
+
+/* Center Headings
+   Center h1-h5 headings, via the Centered Headings setting */
+
+/* Indent Paragraphs
+   Indent the first line of sequential paragraphs, via the Indent Paragraph setting */
+
+/* Night Mode */
+
+/* Colors for OS X */
+
+/* Fake sub-pixel lines */
+
+/* Footnotes */
+
+.footnotes {
+  margin-top: calc((45 / 1080) * 100%);
+  /* 45px when width: 1080px (excluding padding) */
+  page-break-before: avoid;
+  font-size: calc((16 / 18) * 1rem);
+  /* 0.8889rem, 16/18px @1080px wide, default for Monospace */
+  line-height: calc(27 / 16);
+  /* 1.6875, 27px @1080px wide, default for Monospace */
+}
+
+.footnotes hr {
+  margin-top: calc((60 / 760) * 100%);
+  /* 60px when width: 1080px */
+  page-break-after: avoid;
+}
+
+.footnotes p {
+  margin: 0 auto;
+}
+
+/* Remove underline on .reversefootnote arrow for iOS, as itâ€™s turned into an emoji */
+
+@media screen and (max-device-width: 1024px) {
+  .reversefootnote {
+    text-decoration: none;
+  }
+}
+
+/* Footnotes responsive adjustments when width: 1080px */
+
+@media screen and (min-width: 1080px) {
+  .footnotes {
+    margin-top: 45px;
+  }
+
+  /* Hanging footnote ordinals */
+
+  .footnotes ol {
+    padding-left: 0;
+  }
+
+  .footnotes hr {
+    margin-top: 60px;
+  }
+}
+
+/* Task Lists
+   Left padding based on 40px default */
+
+/* Position ordinal counters so 1-9 left-align with left content edge. Subsequent counters will begin in gutter. */
+
+/* Hide default bullets for unordered task lists. */
+
+/* Hide gen-content bullets for unordered task lists. */
+
+/* Checkbox color in Night Mode (=text color) */
+
+/* OS X color */
+
+/**
+ * iA Writer Template â€œMonospaceâ€
+ *
+ * font-family: Nitti Pro
+ * font-size:   14px iPhone, 15px iPhone 6+, 16px iPadâ€¦
+ * line-height: 1.8125 (29px @ font-size: 16px)
+ * vert margin: 29px
+ */
+
+/* TOOLS â†’ core.css */
+
+/* GENERIC */
+
+/* Fonts */
+
+/* NOTE 300 and 500 weights are loaded from core.css */
+
+/* Regular versions on OS X, slim versions on iOS (assumes iOS will never have regular versions) */
+
+@font-face {
+  font-family: "NittiPro";
+  font-weight: 200;
+  font-style: normal;
+  src: local("NittiPro-Light"), local("NittiPro-LightSlim");
+}
+
+@font-face {
+  font-family: "NittiPro";
+  font-weight: 200;
+  font-style: italic;
+  src: local("NittiPro-LightItalic"), local("NittiPro-LightItalicSlim");
+}
+
+@font-face {
+  font-family: "NittiPro";
+  font-weight: 700;
+  font-style: normal;
+  src: local("NittiPro-Bold"), local("NittiPro-BoldSlim");
+}
+
+@font-face {
+  font-family: "NittiPro";
+  font-weight: 700;
+  font-style: italic;
+  src: local("NittiPro-BoldItalic"), local("NittiPro-BoldItalicSlim");
+}
+
+/* Nitti iA Small Caps */
+
+@font-face {
+  font-family: "NittiSCiA";
+  font-weight: 400;
+  /* Not supported in @font-face at time of writing
+  font-variant: small-caps;
+  text-transform: lowercase; */
+  src: local("NittiSCiA-Regular");
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), print {
+@font-face {
+    font-family: "NittiSCiA";
+    font-weight: 400;
+    /* Not supported in @font-face at time of writing
+    font-variant: small-caps;
+    text-transform: lowercase; */
+    src: local("NittiSCiA-RegularHD");
+}
+}
+
+@font-face {
+  font-family: "NittiSCiA";
+  font-weight: 700;
+  /* Not supported in @font-face at time of writing
+  font-variant: small-caps;
+  text-transform: lowercase; */
+  src: local("NittiSCiA-Bold");
+}
+
+/* BASE */
+
+/* Assumed from min-width: 80px */
+
+html {
+  font-family: "NittiPro", "Keyboard", monospace;
+  font-weight: 200;
+  /* Light weight for non-Retina OS X */
+  font-size: 2em;
+  /* Overridden by responsive font sizing */
+  line-height: calc(29 / 16);
+  /* 1.7778 = 29px @ font-size: 16px */
+}
+
+/* Semi-light weight for Retina OS X */
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), print {
+  html {
+    font-weight: 300;
+  }
+}
+
+/*
+
+/* Responsive adjustments 
+
+@media screen and (min-width: 81px) {
+  html {
+    font-size: 1.1px;
+  }
+}
+
+@media screen and (min-width: 82px) {
+  html {
+    font-size: 1.2px;
+  }
+}
+
+@media screen and (min-width: 83px) {
+  html {
+    font-size: 1.3px;
+  }
+}
+
+@media screen and (min-width: 84px) {
+  html {
+    font-size: 1.4px;
+  }
+}
+
+@media screen and (min-width: 85px) {
+  html {
+    font-size: 1.5px;
+  }
+}
+
+@media screen and (min-width: 86px) {
+  html {
+    font-size: 1.6px;
+  }
+}
+
+@media screen and (min-width: 88px) {
+  html {
+    font-size: 1.7px;
+  }
+}
+
+@media screen and (min-width: 90px) {
+  html {
+    font-size: 1.85px;
+  }
+}
+
+@media screen and (min-width: 92px) {
+  html {
+    font-size: 2px;
+  }
+}
+
+@media screen and (min-width: 97px) {
+  html {
+    font-size: 2.5px;
+  }
+}
+
+@media screen and (min-width: 105px) {
+  html {
+    font-size: 3px;
+  }
+}
+
+@media screen and (min-width: 114px) {
+  html {
+    font-size: 3.5px;
+  }
+}
+
+@media screen and (min-width: 120px) {
+  html {
+    font-size: 4px;
+  }
+}
+
+@media screen and (min-width: 140px) {
+  html {
+    font-size: 5px;
+  }
+}
+
+@media screen and (min-width: 160px) {
+  html {
+    font-size: 6px;
+  }
+}
+
+@media screen and (min-width: 180px) {
+  html {
+    font-size: 7px;
+  }
+}
+
+@media screen and (min-width: 180px) and (min-device-width: 1152px) {
+  html {
+    font-size: 6px;
+  }
+}
+
+@media screen and (min-width: 200px) {
+  html {
+    font-size: 8px;
+  }
+}
+
+@media screen and (min-width: 200px) and (min-device-width: 1152px) {
+  html {
+    font-size: 7px;
+  }
+}
+
+@media screen and (min-width: 220px) {
+  html {
+    font-size: 9px;
+  }
+}
+
+@media screen and (min-width: 220px) and (min-device-width: 1152px) {
+  html {
+    font-size: 7px;
+  }
+}
+
+@media screen and (min-width: 240px) {
+  html {
+    font-size: 10px;
+  }
+}
+
+@media screen and (min-width: 240px) and (min-device-width: 1152px) {
+  html {
+    font-size: 8px;
+  }
+}
+
+@media screen and (min-width: 260px) {
+  html {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 260px) and (min-device-width: 1152px) {
+  html {
+    font-size: 8px;
+  }
+}
+
+@media screen and (min-width: 280px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 280px) and (min-device-width: 1152px) {
+  html {
+    font-size: 9px;
+  }
+}
+
+@media screen and (min-width: 300px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+@media screen and (min-width: 300px) and (min-device-width: 1152px) {
+  html {
+    font-size: 9px;
+  }
+}
+
+/* 14px @320 for iPhone 5 
+
+@media screen and (min-width: 320px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 320px) and (min-device-width: 1152px) {
+  html {
+    font-size: 10px;
+  }
+}
+
+/* For iPhone 6+ 
+
+@media screen and (min-width: 414px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 414px) and (min-device-width: 1152px) {
+  html {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  html {
+    font-size: 15.5px;
+  }
+}
+
+@media screen and (min-width: 640px) and (min-device-width: 1152px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+/* For iPad 
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 768px) and (min-device-width: 1152px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 920px) and (min-device-width: 1152px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+
+@media screen and (min-width: 920px) {
+  html {
+    font-size: 17px;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+} 
+*/
+
+
+
+body {
+  max-width: 44em;
+}
+
+@media screen and (min-width: 1080px) {
+  body {
+    max-width: 705px;
+  }
+}
+
+
+/* Emphasis */
+
+/* Emphasis for Nitti Small Caps iA */
+
+/* Headings */
+
+/* Display h6 as run-in: see core.css */
+
+/* Subheading adjustments */
+
+:-webkit-any(h1, h2) + :-webkit-any(h1, h2) {
+  margin-top: calc((15 / 16) * -1rem);
+}
+
+:-webkit-any(h1, h2, h3, h4, h5, h6) + :-webkit-any(h3, h4, h5, h6) {
+  margin-top: 0;
+}
+
+/* Vertical margins (-webkit-any for specificity) */
+
+p,ol,pre {
+  margin: calc((29 / 16) * 1rem)  auto 0;
+}
+
+/* Override vertical margin between headers and block-level elements */
+
+:-webkit-any(h3, h4, h5) + :-webkit-any(p, ol, ul, dl, figure, blockquote, pre, table),:-webkit-any(h1, h2, h3, h4, h5) + h6 + * {
+  margin-top: 0;
+}
+
+/* Lists */
+
+ol {
+  padding-left: calc((34 / 14) * 1rem);
+  /* 2.4285rem = 34px for font-size: 14px. rem works better for RWD than % */
+}
+
+@media screen and (min-width: 760px) {
+  ol {
+    padding-left: calc((40 / 16) * 1rem);
+    /* 2.5rem = ~40px for font-size: 16px. rem works better for RWD than % */
+  }
+}
+
+/* Unordered lists use custom bullets: see core.css */
+
+/* Indent ordered lists in blockquotes */
+
+/* Indented ordered list responsive adjustments */
+
+/* Blockquotes */
+
+/* Override core.cssÂ */
+
+@media screen and (min-width: 100px) {
+  hr {
+    margin-top: calc((29 / 16) * 1rem);
+    margin-bottom: calc((28 / 16) * 1rem);
+    /* -1px for border-bottom */
+  }
+}
+
+/* Imitate sub-pixel line. See @media section for RWD adjustments. */
+
+hr {
+  border-bottom-color: #bbb;
+}
+
+/* Tables */
+
+/* Code */
+
+/* Code that inherits bold */
+
+:-webkit-any(h1, h2, h3, h4, h5, h6) :-webkit-any(code, samp, kbd) {
+  font-weight: 500;
+}
+
+/* @media Rules */
+
+/* Combined horizontal line styles, supplimenting core.css */
+
+/* Adjust border color to imitate sub-pixel lines */
+
+@media screen and (min-width: 150px) {
+  hr {
+    border-bottom-color: #888;
+  }
+}
+
+/* Intended border color from 200px */
+
+@media screen and (min-width: 200px) {
+  hr {
+    border-bottom-color: #1a1a1a;
+  }
+}
+
+/* Theme-specific print styles
+   (see core.css for generic styles) */
+
+@media print {
+  html {
+    font-size: 8.6pt;
+  }
+
+  body {
+    max-width: 365pt;
+  }
+}
+
+/** OBJECTS â†’ see core.css base styles for:
+ *  - Indent Paragraphs
+ *  - Footnotes
+ *  - Task lists
+ */
+
+/* Indent Paragraphs */
+
+/* Night Mode */
+
+/* Imitate sub-pixel line for narrow widths for elements not defined in core.css */
+
+/* First tweakpoint modifying core.css */
+
+/* Intended border color from 200px for iOS */
+
+/* Intended border color from 200px for OS X */
+
+/* Footnotes uses core.css defaults */
+
+/* Task Lists */
