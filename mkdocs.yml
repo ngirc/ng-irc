@@ -1,4 +1,10 @@
 site_name: Angular in IRC
-pages:
-- Home: index.md
+site_url: http://ngirc.js.org
+site_description: Compilation of Angular-related resources from the IRC angular channel.
+site_author: IRC angular channel community
+site_favicon: favicon.ico
+
+repo_url: https://github.com/ngirc/ng-irc
+
 theme: readthedocs
+repo_name: GitHub
