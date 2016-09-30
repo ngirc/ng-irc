@@ -1,53 +1,97 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
 <head>
-  <meta charset="utf-8"/>
-  <link rel="shortcut icon" href="favicon.ico"/>
-  <link rel="stylesheet" media="all" href="out.css" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Angular in IRC</title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="Compilation of Angular-related resources from the IRC #angularjs channel">
+    <meta name="author" content="angular irc community">
+
+    <title>Angular in IRC</title>
+
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <style>
+        body {
+            color: #444;
+            font-family: monospace;
+            padding-top: 50px;
+            text-align: justify;
+        }
+    </style>
+
 </head>
+
 <body>
+  
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="https://github.com/ngirc/ng-irc">ng-irc</a>
+        </div>
+    </div>
+</div>
+  
+<div class="container">
+<style>
+   h1 {
+        font-size: 6em;
+        font-weight: normal;
+        margin-top: 32px;
+    }
+    a {
+        text-decoration: none;
+        cursor: pointer;
+    }
 
-<p>Compilation of Angular-related resources from the IRC #angularjs channel</p>
+    .networks {
+        border-top: 1px solid #ccc;
+        margin-bottom: 48px;
+        padding: 0;
+    }
+    .networks li {
+        display: inline-block;
+        float: right;
+    }
+    .networks a {
+        display: block;
+        font-size: 1.3em;
+        color: #444;
+        padding: 5px 0 0 25px;
+    }
+</style>
 
-<a href="http://ng-irc.readthedocs.io/">Angular in IRC on Read the Docs</a>
+<div class="row">
 
-<p>IRC</p>
-<ul>
-<li><a href="http://www.catb.org/esr/faqs/smart-questions.html">How to Ask Good Questions</a></li>
-<li><a href="http://xyproblem.info/">XY problem</a></li>
-</ul>
+<div class="col-md-6">
+    <blockquote>
+      <p>Compilation of Angular-related resources from the IRC #angularjs channel.</p>
+    </blockquote>
 
-<p>Angular</p>
-<ul>
-<li><a href="https://github.com/johnpapa/angular-styleguide">Code Style Guide by John Papa</a></li>
-<li><a href="https://github.com/toddmotto/angularjs-styleguide">Angular 1.x styleguide (ES2015)</a></li>
-<li><a href="https://github.com/mgechev/angularjs-style-guide">Code Style Guide by Minko Gechev</a></li>
-<li><a href="https://github.com/angular-ui/AngularJS-StyleGuide">Code Style Guide by Angular UI</a></li>
-<li><a href="http://plnkr.co/edit/B34xKPlg86PZWP0Q7N6u?p=preview">How to update the scope with a service returning a promise </a></li>
-<li><a href="http://plnkr.co/edit/TGlYHILp3kY8XD3U12xm?p=preview">How to share data between controllers 1</a></li>
-<li><a href="http://plnkr.co/edit/41xY057yPIuKgBEyq0hW?p=preview">How to share data between controllers 2</a></li>
-<li><a href="http://plnkr.co/edit/hoM7FAsRfp7PkNQQwAYg?p=preview">Angular 2 example with lifecycle </a></li>
-<li><a href="http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/">Why Will Angular 2 Rock?</a></li>
-<li><a href="http://plnkr.co/edit/7anGLMoJZgMkJFX9d9IA?p=preview">Two way data binding pitfalls</a></li>
-<li><a href="https://gist.github.com/anonymous/a3eff4ceca07e9ab9ab664f1be200401">Using isolated scopes as event emitters</a></li>
-<li><a href="http://plnkr.co/edit/YEdUxkWPRwLCCfygFlnI?p=preview">Emitter vs. Promise pattern</a></li>
-<li><a href="http://plnkr.co/edit/hsmQV2j8tHs1ANYed1pS?p=preview">One-way dataflow in components</a></li>
-<li><a href="https://toddmotto.com/angular-1-5-lifecycle-hooks">Comprehensive dive into Angular 1.5 lifecycle hooks</a></li>
-<li><a href="https://t.co/BFzrAPHY0X">Will Angular 2 take off?</a></li>
-</ul>
+    <h1>Angular in IRC</h1>
+    
+    <ul class="networks">
+        <li><a href="https://ng-irc.readthedocs.io">Read the Docs</a></li>
+        <li><a href="https://angularjs.org/">Angular 1</a></li>
+        <li><a href="https://angular.io/">Angular 2</a></li>
+    </ul>
+</div>
 
-<p>Material</p>
-<ul>
-<li><a href="http://codepen.io/anon/pen/ozZYkV">Setting default value for md-select</a></li>
-</ul>
+<div class="col-md-6">
+    <ul>
+      <li><a href="http://www.catb.org/esr/faqs/smart-questions.html">How to Ask Good Questions</a></li>
+      <li><a href="http://xyproblem.info/">XY problem</a></li>
+    </ul>
+  
+    <a href="http://js.org" target="_blank" title="JS.ORG | JavaScript Community">
+    <img src="http://logo.js.org/dark_vert.png" width="50" alt="JS.ORG Logo"/></a>
+    <!-- alternatives [bright|dark]_[horz|vert|tiny].png (width[horz:102,vert:50,tiny:77]) -->
+</div>
 
-<hr>
-
-<a href="http://js.org" target="_blank" title="JS.ORG | JavaScript Community">
-<img src="http://logo.js.org/dark_vert.png" width="50" alt="JS.ORG Logo"/></a>
-<!-- alternatives [bright|dark]_[horz|vert|tiny].png (width[horz:102,vert:50,tiny:77]) -->
+</div> <!-- container -->
+</div> <!-- row -->
 
 </body>
 </html>
