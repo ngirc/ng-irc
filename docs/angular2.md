@@ -1,0 +1,3 @@
+- [Code Style Guide by John Papa](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md)
+- [Why Will Angular 2 Rock?](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
+- [Will Angular 2 take off?](https://t.co/BFzrAPHY0X)
