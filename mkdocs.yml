@@ -8,3 +8,6 @@ repo_url: https://github.com/ngirc/ng-irc
 
 theme: readthedocs
 repo_name: GitHub
+
+extra_javascript:
+- js/extra.js
