@@ -1,0 +1,3 @@
+- [Web technology For developers](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JSbooks](http://jsbooks.revolunet.com/)
+- [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
