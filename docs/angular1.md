@@ -8,3 +8,4 @@
 - [Two way data binding pitfalls](http://plnkr.co/edit/7anGLMoJZgMkJFX9d9IA?p=preview)
 - [Emitter vs. Promise pattern](http://plnkr.co/edit/YEdUxkWPRwLCCfygFlnI?p=preview)
 - [One-way dataflow in components](http://plnkr.co/edit/hsmQV2j8tHs1ANYed1pS?p=preview)
+- [A Brief Walk-through of the Ng-options in AngularJS](https://www.undefinednull.com/2014/08/11/a-brief-walk-through-of-the-ng-options-in-angularjs/)
