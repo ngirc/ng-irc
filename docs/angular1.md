@@ -11,3 +11,6 @@
 - [A Brief Walk-through of the Ng-options in AngularJS](https://www.undefinednull.com/2014/08/11/a-brief-walk-through-of-the-ng-options-in-angularjs/)
 - [$q.defer: You're doing it wrong](http://www.codelord.net/2015/09/24/$q-dot-defer-youre-doing-it-wrong/)
 - [Full-Spectrum Testing with AngularJS and Karma](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
+- [Angular .service() or .factory(), the actual answer](https://toddmotto.com/factory-versus-service)
+- [Service vs Factory - Once and for all](http://blog.thoughtram.io/angular/2015/07/07/service-vs-factory-once-and-for-all.html)
+- [AngularJS: Service vs provider vs factory](http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory)
