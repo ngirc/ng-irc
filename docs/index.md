@@ -13,3 +13,4 @@ Compilation of Angular-related resources from the IRC #angularjs channel.
 - [Todd Motto](https://toddmotto.com/)
 - [Minko Gechev](http://blog.mgechev.com/)
 - [Victor Savkin](https://vsavkin.com/)
+- [Jani Hartikainen](http://codeutopia.net/blog/)
