@@ -11,3 +11,8 @@ repo_name: GitHub
 
 extra_javascript:
 - js/extra.js
+
+pages:
+  - Angular 1:
+    - 'Resources and links': 'angular1/resources.md'
+    - 'Forms': 'angular1/forms.md'
