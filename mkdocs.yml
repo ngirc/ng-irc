@@ -10,4 +10,14 @@ theme: readthedocs
 repo_name: GitHub
 
 extra_javascript:
-- js/extra.js
+  - js/extra.js
+
+pages:
+  - 'Home': 'index.md'
+  - 'Angular 1':
+    - 'Resources and links': 'angular1/resources.md'
+    - 'Forms': 'angular1/forms.md'
+    - 'Material 1': 'angular1/material1.md'
+  - 'Angular 2': 'angular2.md'
+  - 'Javascript': 'javascript.md'
+  - 'Reviews': 'reviews.md'
