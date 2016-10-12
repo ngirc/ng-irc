@@ -9,8 +9,11 @@ repo_url: https://github.com/ngirc/ng-irc
 theme: readthedocs
 repo_name: GitHub
 
+extra_css:
+  - extra/extra.css
+
 extra_javascript:
-  - js/extra.js
+  - extra/extra.js
 
 pages:
   - 'Home': 'index.md'
