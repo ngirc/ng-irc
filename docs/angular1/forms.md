@@ -24,7 +24,7 @@ You can circumvent this behavior by using `ng-model-options="{allowInvalid: true
 > How can I only show an element once the user left the field / tried to submit the form?
 
 ```html
-<div ng-if="myForm.myField.$dirty"></div> <!-- Will only show up after the field has been focused -->
+<div ng-if="myForm.myField.$dirty"></div> <!-- Will only show up after the field's value has been changed -->
 <div ng-if="myForm.myField.$touched"></div> <!-- Will only show up after the field has been focused then unfocused -->
 <div ng-if="myForm.$submitted"></div> <!-- Will only show up after the user tried to submit the form -->
 ```
