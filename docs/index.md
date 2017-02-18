@@ -6,8 +6,8 @@ Compilation of Angular-related resources from the IRC #angularjs channel.
 
 - [AngularJS](https://angularjs.org/)
 - [Angular](https://angular.io/)
-- [Material 1](https://material.angularjs.org/)
-- [Material 2](https://material.angular.io/)
+- [AngularJS Material](https://material.angularjs.org/)
+- [Angular Material](https://material.angular.io/)
 
 ## Blogs
 

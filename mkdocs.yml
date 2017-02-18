@@ -20,7 +20,7 @@ pages:
   - 'AngularJS':
     - 'Resources and links': 'angularjs/resources.md'
     - 'Forms': 'angularjs/forms.md'
-    - 'Material 1.x': 'angularjs/material1.md'
+    - 'AngularJS Material': 'angularjs/material1.md'
   - 'Angular':
     - 'Resources and links': 'angular/resources.md'
   - 'Javascript': 'javascript.md'
