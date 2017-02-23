@@ -17,3 +17,4 @@
 - [Service vs Factory - Once and for all](http://blog.thoughtram.io/angular/2015/07/07/service-vs-factory-once-and-for-all.html)
 - [AngularJS: Service vs provider vs factory](http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory)
 - [Sane, scalable Angular apps are tricky, but not impossible. Lessons learned from PayPal Checkout](https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef#.d3emthtju)
+- [AngularJS in Patterns](https://mgechev.github.io/angularjs-in-patterns/)
