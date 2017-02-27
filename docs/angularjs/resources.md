@@ -18,3 +18,4 @@
 - [AngularJS: Service vs provider vs factory](http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory)
 - [Sane, scalable Angular apps are tricky, but not impossible. Lessons learned from PayPal Checkout](https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef#.d3emthtju)
 - [AngularJS in Patterns](https://mgechev.github.io/angularjs-in-patterns/)
+- [UI Router setup with visualizer](https://plnkr.co/edit/jbZgIg?p=preview)
