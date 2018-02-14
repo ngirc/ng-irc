@@ -9,3 +9,8 @@ Additional styling applied to the RTD theme.
     border-left: 0.25em solid #ddd;
     color: #777;
 }
+
+/* Wrapping the text in AMA */
+.hljs.nimrod {
+    white-space: pre-wrap
+}
