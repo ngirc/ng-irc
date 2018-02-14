@@ -1,4 +1,4 @@
-```
+<pre>
 [12:58] <@icebox> ANNOUNCE: in two minutes  "Wed, Feb 14th, at 13.00 CET (GMT+1) a 1 hour #angularjs (Freenode) AMA (Ask Me Anything) with me about hyperHTML, standards, transpilers, bundlers, esm modules, and the meaning of keyed VS non keyed JS benchmarks + your questions. See you there" - https://twitter.com/WebReflection/status/961352362962059264
 [12:59] <Pyrrhus666> welcome webreflection
 [12:59] == eremitah_ has changed nick to eremitah
@@ -210,4 +210,4 @@
 [14:03] <webreflection> :run-away:
 [14:03] <Elarcis> webreflection: it was really interesting, thank you :P
 [14:03] <nnodot> Thanks! I'll dig in the log. I've missed this AMA... Heard of it only 5 minutes before it's end... :-/
-```
+</pre>
