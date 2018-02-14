@@ -17,6 +17,8 @@ extra_javascript:
 
 pages:
   - 'Home': 'index.md'
+  - 'AMA':
+    - 'WebReflection 2018-Feb-14': 'ama/webreflection.md'
   - 'AngularJS':
     - 'Resources and links': 'angularjs/resources.md'
     - 'Forms': 'angularjs/forms.md'
