@@ -1,4 +1,4 @@
-## AMA (Ask Me Anything) session with WebReflection (2018-Feb-14)
+## AMA with WebReflection (2018-Feb-14)
 
 <sub><sup>[12:58]</sup></sub> **@icebox**
 
