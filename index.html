@@ -1,127 +1,25 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="description" content="Compilation of Angular-related resources from the IRC #angularjs channel">
-    <meta name="author" content="angular irc community">
-
+    <meta charset="UTF-8">
     <title>Angular in IRC</title>
-
-    <link rel="shortcut icon" href="favicon.ico"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
-    <style>
-        body {
-            color: #444;
-            font-family: monospace;
-            padding-top: 50px;
-            text-align: justify;
-        }
-    </style>
-
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 
 <body>
+    <div id="app"></div>
 
-<div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
-        <div class="navbar-header">
-            <a class="navbar-brand" href="https://github.com/ngirc/ng-irc">ng-irc</a>
-        </div>
-    </div>
-</div>
-
-<div class="container">
-<style>
-   h1 {
-        font-size: 6em;
-        font-weight: normal;
-        margin-top: 32px;
-    }
-    a {
-        text-decoration: none;
-        cursor: pointer;
-    }
-
-    .networks {
-        border-top: 1px solid #ccc;
-        margin-bottom: 48px;
-        padding: 0;
-    }
-    .networks li {
-        display: inline-block;
-        float: right;
-    }
-    .networks a {
-        display: block;
-        font-size: 1.3em;
-        color: red;
-        padding: 5px 0 0 25px;
-    }
-</style>
-
-<div class="row">
-
-<div class="col-md-8">
-    <h3>Compilation of Angular-related resources from the IRC #angularjs channel.</h3>
-
-    <h1>Angular in IRC</h1>
-
-    <ul class="networks">
-        <li><a href="https://ng-irc.readthedocs.io">Read the Docs</a></li>
-    </ul>
-
-    <blockquote>
-        <p>When you join the channel, don't ask to ask: just ask the question and be patient waiting for the answer.</p>
-        <p>If the question is complex, it would be better providing a minimal working plunker.</p>
-        <small>A few suggestions getting help</small>
-    </blockquote>
-
-    <blockquote>
-        <ol>
-            <li>Don't ask to ask.</li>
-            <li>&quot;It doesn't work&quot; is not an issue.</li>
-            <li>&quot;Why&quot; can be explained. &quot;How&quot; can be googled.</li>
-            <li>A Plunker is always worth it.</li>
-        </ol>
-        <small>The Rules</small>
-    </blockquote>
-
-</div>
-
-<div class="col-md-4">
-    <h4>Before asking in the channel you may read the following readings:</h4>
-    <ul>
-        <li><a href="https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md">Code Of Conduct</a></li>
-        <li><a href="http://www.catb.org/esr/faqs/smart-questions.html">How to Ask Good Questions</a></li>
-        <li><a href="http://xyproblem.info/">XY problem</a></li>
-        <li><a href="http://www.skidmore.edu/~pdwyer/e/eoc/help_vampire.htm">The Help Vampire: A Spotter's Guide</a></li>
-        <li><a href="http://stackoverflow.com/help/mcve">How to create a Minimal, Complete, and Verifiable example</a></li>
-    </ul>
-
-    <h4>Useful links</h4>
-    <ul>
-        <li><a href="https://angularjs.org/">AngularJS</a></li>
-        <li><a href="https://angular.io/">Angular</a></li>
-        <li><a href="https://plnkr.co/edit/tpl:nKLNBdve51sqOoKZAOUS">AngularJS Plunker template</a></li>
-        <li><a href="https://plnkr.co/edit/tpl:xQMoEqCxQJQSBICu6Wzh">Angular Plunker template</a></li>
-        <li><a href="http://g.co/ng/weekly-notes">Angular Weekly Notes</a></li>
-        <li><a href="https://echelog.com/logs/browse/angularjs/">Channel logs</a></li>
-    </ul>
-
-    <h4>AMA sessions</h4>
-    <ul>
-        <li><a href="https://ng-irc.readthedocs.io/en/latest/ama/webreflection/">WebReflection (2018-Feb-14)</a></li>
-    </ul>
-
-    <a href="http://js.org" target="_blank" title="JS.ORG | JavaScript Community" class="pull-right">
-    <img src="http://logo.js.org/dark_vert.png" width="50" alt="JS.ORG Logo"/></a>
-    <!-- alternatives [bright|dark]_[horz|vert|tiny].png (width[horz:102,vert:50,tiny:77]) -->
-</div>
-
-</div> <!-- container -->
-</div> <!-- row -->
+    <script>
+        window.$docsify = {
+            name: '#angularjs',
+            repo: 'ngirc/ng-irc',
+            loadSidebar: true
+        }
+    </script>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
