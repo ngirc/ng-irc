@@ -1,4 +1,5 @@
 * [Main Resources](docs/main.md)
+* [Frontend Conferences](https://asciidisco.github.io/web-conferences-2018/)
 * Ask Me Anything
     * [WebReflection 2018-Feb-14](docs/ama/webreflection.md)
 * AngularJS
