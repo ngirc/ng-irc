@@ -1,6 +1,7 @@
 ## Useful links
-- [Angular StackBlitz template](https://stackblitz.com/edit/angularjs-irc-starter)
-- [AngularJS Plunker template](https://plnkr.co/edit/tpl:nKLNBdve51sqOoKZAOUS)
+- [Angular StackBlitz template](https://stackblitz.com/edit/angular-irc-starter)
+- [AngularJS StackBlitz template](https://stackblitz.com/edit/angularjs-irc-starter)
+- [Old AngularJS Plunker template](https://plnkr.co/edit/tpl:nKLNBdve51sqOoKZAOUS)
 - [Angular Weekly Notes](http://g.co/ng/weekly-notes)
 - [Channel logs](https://echelog.com/logs/browse/angularjs/)
 
