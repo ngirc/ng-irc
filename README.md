@@ -1,4 +1,4 @@
-# ![logo](ng-irc.svg) Angular in IRC
+# ![logo](ng-irc.png) Angular in IRC
 
 > Compilation of Angular-related resources from the IRC #angularjs channel.
 
