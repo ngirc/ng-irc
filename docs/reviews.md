@@ -5,4 +5,3 @@
 - 2013 / [Choosing a JavaScript MVC Framework](http://www.funnyant.com/choosing-javascript-mvc-framework/)
 - 2012 / [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
 - 2012 / [Journey Through The JavaScript MVC Jungle](https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/)
-- [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
