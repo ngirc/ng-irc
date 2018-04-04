@@ -2,6 +2,7 @@
 * [Frontend Conferences](https://asciidisco.github.io/web-conferences-2018/)
 * Ask Me Anything
     * [WebReflection 2018-Feb-14](docs/ama/webreflection.md)
+* [Channel Hall of Fame](docs/halloffame.md)
 * AngularJS
     * [Resources and links](docs/angularjs/resources.md)
     * [Forms](docs/angularjs/forms.md)
