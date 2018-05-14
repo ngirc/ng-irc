@@ -10,10 +10,10 @@
 
 ## The Rules
 
-1. Don't ask to ask.
+1. `Don't ask to ask`.
 2. `It doesn't work` is not an issue, because `here it works`.
 3. `Why` can be explained. `How` can be googled.
-4. A StackBlitz is always worth it.
+4. `StackBlitz` is always worth it.
 
 ## Before asking in the channel
 
