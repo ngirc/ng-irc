@@ -6,14 +6,14 @@
 
 > When you join the channel, don't ask to ask: just ask the question and be patient waiting for the answer.
 
-> If the question is complex, it would be better providing a minimal working plunker.
+> If the question is complex, it would be better providing a minimal working StackBlitz (template link in the topic).
 
 ## The Rules
 
 1. Don't ask to ask.
-2. &quot;It doesn't work&quot; is not an issue.
-3. &quot;Why&quot; can be explained. &quot;How&quot; can be googled.
-4. A Plunker is always worth it.
+2. `It doesn't work` is not an issue, because `here it works`.
+3. `Why` can be explained. `How` can be googled.
+4. A StackBlitz is always worth it.
 
 ## Before asking in the channel
 
