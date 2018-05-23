@@ -12,6 +12,6 @@
 * [Javascript](docs/javascript.md)
 * [Reviews](docs/reviews.md)
 
-    <a href="http://js.org" target="_blank" title="JS.ORG | JavaScript Community" class="pull-right">
-    <img src="http://logo.js.org/dark_vert.png" width="50" alt="JS.ORG Logo"/></a>
+    <a href="https://js.org" target="_blank" title="JS.ORG | JavaScript Community" class="pull-right">
+    <img src="https://logo.js.org/dark_vert.png" width="50" alt="JS.ORG Logo"/></a>
     <!-- alternatives [bright|dark]_[horz|vert|tiny].png (width[horz:102,vert:50,tiny:77]) -->
