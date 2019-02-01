@@ -20,5 +20,5 @@
 - [Code Of Conduct](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md)
 - [How to Ask Good Questions](http://www.catb.org/esr/faqs/smart-questions.html)
 - [XY problem](http://xyproblem.info/)
-- [The Help Vampire: A Spotter's Guide](http://www.skidmore.edu/~pdwyer/e/eoc/help_vampire.htm)
+- [The Help Vampire: A Spotter's Guide](http://slash7.com/2006/12/22/vampires/)
 - [How to create a Minimal, Complete, and Verifiable example](http://stackoverflow.com/help/mcve)
