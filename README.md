@@ -1,6 +1,6 @@
 # ![logo](ng-irc.png) Angular in IRC
 
-> Compilation of Angular-related resources from the IRC #angularjs channel.
+> Compilation of Angular-related resources from the IRC ##angular channel on freenode.
 
 ## A few suggestions getting help
 
